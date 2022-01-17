@@ -6,3 +6,4 @@ Táblázatkezelés
 Adatbázis-kezelés
 
 Informatikai emelt szintű érettségi:
+c
